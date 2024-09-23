@@ -1,2 +1,2 @@
-# dinosaur
-USTH Deep Learning Project
+# USTH Deep Learning Project
+
