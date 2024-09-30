@@ -1,7 +1,9 @@
 # USTH Deep Learning Project
 
 **Topic: 18 - Study the DINOv2 for remote sensing image classification. Present a concrete example case study.**
-DINOv2 repository: https://github.com/facebookresearch/dinov2
+
+DINOv2 Repository: https://github.com/facebookresearch/dinov2
+Pre-trained Models: https://huggingface.co/models?search=facebook/dinov2
 
 ---
 
