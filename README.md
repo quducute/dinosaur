@@ -7,7 +7,7 @@ DINOv2 Pre-trained Models: https://huggingface.co/models?search=facebook/dinov2 
 Remote Sensing Dataset: https://zenodo.org/records/7711810
 
 ---
-
+Members:
 -   Trần Minh An - 22BI13007 - antm.22bi13007@usth.edu.vn
 -   Đỗ Quang Anh - 22BI13013 - anhdq.22bi13013@usth.edu.vn
 -   Hoàng Quỳnh Anh - 22BI13015 - anhhq.22bi13015@usth.edu.vn
