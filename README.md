@@ -2,12 +2,20 @@
 
 **Topic: 18 - Study the DINOv2 for remote sensing image classification. Present a concrete example case study.**
 
-DINOv2 Repository: https://github.com/facebookresearch/dinov2 <br />
-DINOv2 Pre-trained Models: https://huggingface.co/models?search=facebook/dinov2 <br />
-Remote Sensing Dataset: https://zenodo.org/records/7711810
+-   We use the T4 GPU from Google Colab to train the dataset.
 
 ---
+
+Resources:
+
+-   DINOv2 Repository: https://github.com/facebookresearch/dinov2 <br />
+-   DINOv2 Pre-trained Models: https://huggingface.co/models?search=facebook/dinov2 <br />
+-   Remote Sensing Dataset: https://zenodo.org/records/7711810
+
+---
+
 Members:
+
 -   Trần Minh An - 22BI13007 - antm.22bi13007@usth.edu.vn
 -   Đỗ Quang Anh - 22BI13013 - anhdq.22bi13013@usth.edu.vn
 -   Hoàng Quỳnh Anh - 22BI13015 - anhhq.22bi13015@usth.edu.vn
